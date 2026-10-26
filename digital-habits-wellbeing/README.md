@@ -1,6 +1,6 @@
 # Hábitos digitales y bienestar
 
-Trabajo final de **Aprendizaje Automático II** (Grado en Ciencia de Datos e IA, UDIT, curso 2025–2026). Predice el índice de felicidad (`Happiness_Index(1-10)`) a partir de hábitos digitales y variables de bienestar.
+Trabajo final de **Aprendizaje Automático II** (Grado en Ciencia de Datos e IA, curso 2025–2026). Predice el índice de felicidad (`Happiness_Index(1-10)`) a partir de hábitos digitales y variables de bienestar.
 
 **Autoría.** El análisis exploratorio y el primer modelo con Random Forest son individuales. El informe final, que compara modelos y optimiza Gradient Boosting, se hizo en pareja con una compañera. El informe no se incluye en el repositorio.
 

@@ -1,6 +1,6 @@
 # Machine-learning coursework
 
-University coursework from the BSc in Data Science and Artificial Intelligence at UDIT. The notebooks retain their original Spanish text and result figures.
+University coursework from my BSc in Data Science and Artificial Intelligence. The notebooks retain their original Spanish text and result figures.
 
 Resumen en español: prácticas de aprendizaje automático y neuronas artificiales, con documentación de métodos, resultados y disponibilidad de los materiales.
 
